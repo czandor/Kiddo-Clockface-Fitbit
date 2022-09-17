@@ -21,9 +21,7 @@ Screenshots:
 ![Ionic](https://github.com/czandor/Kiddo-Clockface-Fitbit/blob/main/screenshots/ionic/FunColor-screenshot%20(2).png?raw=true)
 
 You can download the compiled version from Fitbit Gallery:
-https://gallery.fitbit.com/details/b36d8ea6-c803-45fe-ad34-91dbe8d08e89
-
-
+https://gallery.fitbit.com/details/2a7685b1-bfef-4ef0-a5fb-3038a672eac5
 
 You can support my work (donate):
 https://czandor.hu/donate/kiddo
