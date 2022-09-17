@@ -1,0 +1,122 @@
+.background {
+  viewport-fill: white;
+}
+.bg{
+  opacity: 1;
+  x:0;
+  y:0;
+  width:100%;
+  height:100%;
+}
+#bg2{
+  opacity: 1;
+  x:0;
+  y:0;
+  width:100%;
+  height:100%;
+}
+
+/*
+#timeBlock1{
+  y: -10;
+}
+#timeBlock2{
+  y: 10;
+}
+*/
+.time{
+  width: 80;
+  height: 80;
+}
+.week{
+  width: 25;
+  height:25;
+}
+.ampm{
+  width: 25;
+  height:25;
+}
+.date{
+  width: 25;
+  height:25;
+}
+
+
+
+
+#healthBlock{
+  width: 300;
+  height:100;
+  x: 50%-150;
+  pointer-events:visible; 
+}
+.table{
+  width: 100%;
+  height: 100;
+  x:0;
+  y:0;
+}
+.healthIcon{
+  width: 35;
+  height: 35;
+}
+.healthText{
+  width: 25;
+  height: 25;
+}
+.icon-health1{
+  x: 60-17;
+  y: 18;
+}
+.text-health1{
+  y: 55;
+}
+.icon-health2{
+  x: 50%-17;
+  y: 48;
+}
+.text-health2{
+  y: 20;
+}
+.icon-health3{
+  x: 100%-60-17;
+  y: 18;
+}
+.text-health3{
+  y: 55;
+}
+.dot{
+  width: 20;
+  height: 20;
+  fill: silver;
+}
+.dot1{
+  x: 7;
+  y: 8;
+}
+.dot2{
+  x: 100%-5-23;
+  y: 8-3;
+}
+.dot3{
+  x: 7;
+  y: 95-20-7;
+}
+.dot4{
+  x: 100%-5-23;
+  y: 95-20-7-3;
+}
+
+
+.battIcon{
+  x: 50%-50;
+  y: 100%-35;
+  width: 50;
+  height: 30;
+  fill: green;
+}
+.battText{
+  y: 100%-35+3;
+  width: 25;
+  height: 25;
+}

@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "",
+    "appType": "clockface",
+    "appDisplayName": "Kiddo",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "access_heart_rate",
+      "access_location",
+      "access_internet",
+      "access_sleep"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Kiddo"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

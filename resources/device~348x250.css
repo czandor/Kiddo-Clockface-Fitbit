@@ -1,0 +1,29 @@
+.time{
+  y: 50%-50-70;
+}
+.week{
+  y: 50%-50-25;
+}
+.ampm{
+  y: 50%-50-60;
+}
+.date{
+  y: 50%-30;
+}
+
+
+
+#healthBlock{
+  y: 100%-130;
+}
+
+
+
+.border{
+  x:0;
+  y:0;
+  width:100%;
+  height:100%;
+  href: "images/border.png";
+  fill: black;
+}
